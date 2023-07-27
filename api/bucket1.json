@@ -1,0 +1,6 @@
+{  
+   "name": "$DEVSHELL_PROJECT_ID-bucket-1",
+   "location": "us",
+   "storageClass": "multi_regional"
+}
+
